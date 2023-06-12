@@ -1,0 +1,32 @@
+body {
+  margin: 20px;
+  font-family: verdana, sans-serif;
+}
+
+.card-face {
+  width: 150px;
+}
+
+.myborder {
+}
+
+.card {
+}
+
+.edging {
+  background-color: #ddedf8;
+  border-bottom: 3px solid #d8cefe;
+  width: 400px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-around;
+  padding: 20px;
+}
+
+.text-block {
+  color: #2b2839;
+  display: block;
+  margin-left: 20px;
+  margin-right: 20px;
+  text-align: center;
+}
